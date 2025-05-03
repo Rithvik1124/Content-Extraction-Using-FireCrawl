@@ -24,7 +24,7 @@ if __name__=="__main__":
     r= read_csv("Book1.csv")
         
     headers = {
-    "Authorization": "Bearer fc-{API-KEY}", #Enter API-KEY Here
+    "Authorization": "Bearer fc-<YOUR_API_KEY>", #Enter API-KEY Here
     "Content-Type": "application/json"
     }
     count=1 #Indexing of .txt file wrt Book1.csv

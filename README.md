@@ -2,6 +2,8 @@
 
 This Python script is a utility tool designed to extract **only the main content** (in Markdown format) from a list of web pages using the [Firecrawl API](https://firecrawl.dev/). It’s ideal for developers or researchers looking to **scrape article-like content** without all the extra page noise (ads, navbars, etc.).
 
+### This is a small and specific code built around a particular API, and feedback, feature requests, or contributions are always appreciated. Feel free to open issues or PRs if you have ideas or spot something that can be improved!
+
 > ⚙️ This project fits into a niche space in web scraping — extracting **semantic, clean content** from webpages using a headless browser + AI combination (via Firecrawl).
 
 ---
@@ -22,7 +24,3 @@ This Python script is a utility tool designed to extract **only the main content
 Edit the script and add your Firecrawl API key:
 ```python
 "Authorization": "Bearer fc-<YOUR_API_KEY>"
-
-### This is a small and specific tool built around a particular API, and feedback, feature requests, or contributions are always appreciated. Feel free to open issues or PRs if you have ideas or spot something that can be improved!
-
-

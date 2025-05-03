@@ -22,3 +22,7 @@ This Python script is a utility tool designed to extract **only the main content
 Edit the script and add your Firecrawl API key:
 ```python
 "Authorization": "Bearer fc-<YOUR_API_KEY>"
+
+### This is a small and specific tool built around a particular API, and feedback, feature requests, or contributions are always appreciated. Feel free to open issues or PRs if you have ideas or spot something that can be improved!
+
+
